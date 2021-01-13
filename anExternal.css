@@ -1,0 +1,11 @@
+#corners {
+    border-radius: 30px;
+    background: #acdfbe;
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+  }
+
+video {
+  float: right;
+}
